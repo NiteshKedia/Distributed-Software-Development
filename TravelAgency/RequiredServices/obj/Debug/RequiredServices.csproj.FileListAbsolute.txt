@@ -1,0 +1,8 @@
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgency\RequiredServices\obj\Debug\RequiredServices.csprojResolveAssemblyReference.cache
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgency\RequiredServices\bin\RequiredServices.dll.config
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgency\RequiredServices\bin\RequiredServices.dll
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgency\RequiredServices\bin\RequiredServices.pdb
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgency\RequiredServices\obj\Debug\RequiredServices.dll
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgency\RequiredServices\obj\Debug\RequiredServices.pdb
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgency\RequiredServices\bin\Newtonsoft.Json.dll
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgency\RequiredServices\bin\Newtonsoft.Json.xml

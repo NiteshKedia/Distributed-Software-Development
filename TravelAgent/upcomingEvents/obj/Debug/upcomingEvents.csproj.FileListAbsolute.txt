@@ -1,0 +1,8 @@
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\upcomingEvents\bin\upcomingEvents.dll.config
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\upcomingEvents\bin\upcomingEvents.dll
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\upcomingEvents\bin\upcomingEvents.pdb
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\upcomingEvents\bin\Newtonsoft.Json.dll
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\upcomingEvents\bin\Newtonsoft.Json.xml
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\upcomingEvents\obj\Debug\upcomingEvents.csprojResolveAssemblyReference.cache
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\upcomingEvents\obj\Debug\upcomingEvents.dll
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\upcomingEvents\obj\Debug\upcomingEvents.pdb

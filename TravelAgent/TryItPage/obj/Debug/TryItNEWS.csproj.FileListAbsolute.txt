@@ -1,0 +1,11 @@
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\bin\Debug\TryItPage.exe.config
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\bin\Debug\TryItPage.exe
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\bin\Debug\TryItPage.pdb
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\obj\Debug\TryItPage.Form1.resources
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\obj\Debug\TryItPage.Properties.Resources.resources
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\obj\Debug\TryItNEWS.csproj.GenerateResource.Cache
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\obj\Debug\TryItPage.exe
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\obj\Debug\TryItPage.pdb
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\obj\Debug\TryItNEWS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItNearestBankAtm\bin\Debug\TryItNearestBankAtm.exe.config
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItNearestBankAtm\bin\Debug\TryItNearestBankAtm.exe
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItNearestBankAtm\bin\Debug\TryItNearestBankAtm.pdb
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItNearestBankAtm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItNearestBankAtm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItNearestBankAtm\obj\Debug\TryItNearestBankAtm.csprojResolveAssemblyReference.cache
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItNearestBankAtm\obj\Debug\TryItNearestBankAtm.Form1.resources
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItNearestBankAtm\obj\Debug\TryItNearestBankAtm.Properties.Resources.resources
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItNearestBankAtm\obj\Debug\TryItNearestBankAtm.csproj.GenerateResource.Cache
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItNearestBankAtm\obj\Debug\TryItNearestBankAtm.exe
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItNearestBankAtm\obj\Debug\TryItNearestBankAtm.pdb

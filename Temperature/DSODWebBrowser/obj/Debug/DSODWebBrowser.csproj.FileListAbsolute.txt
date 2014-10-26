@@ -1,0 +1,9 @@
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\DSODWebBrowser\bin\Debug\DSODWebBrowser.exe
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\DSODWebBrowser\bin\Debug\DSODWebBrowser.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\DSODWebBrowser\obj\Debug\DSODWebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\DSODWebBrowser\obj\Debug\DSODWebBrowser.Form1.resources
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\DSODWebBrowser\obj\Debug\DSODWebBrowser.Properties.Resources.resources
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\DSODWebBrowser\obj\Debug\DSODWebBrowser.csproj.GenerateResource.Cache
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\DSODWebBrowser\obj\Debug\DSODWebBrowser.exe
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\DSODWebBrowser\obj\Debug\DSODWebBrowser.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\DSODWebBrowser\bin\Debug\DSODWebBrowser.exe.config

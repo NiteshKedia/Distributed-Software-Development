@@ -1,0 +1,8 @@
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\NewsFocus\bin\NewsFocus.dll.config
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\NewsFocus\bin\NewsFocus.dll
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\NewsFocus\bin\NewsFocus.pdb
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\NewsFocus\obj\Debug\NewsFocus.csprojResolveAssemblyReference.cache
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\NewsFocus\obj\Debug\NewsFocus.dll
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\NewsFocus\obj\Debug\NewsFocus.pdb
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\NewsFocus\bin\Newtonsoft.Json.dll
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\NewsFocus\bin\Newtonsoft.Json.xml

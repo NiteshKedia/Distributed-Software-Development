@@ -1,0 +1,11 @@
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItTouristAttractions\bin\Debug\TryItTouristAttractions.exe.config
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItTouristAttractions\bin\Debug\TryItTouristAttractions.exe
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItTouristAttractions\bin\Debug\TryItTouristAttractions.pdb
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItTouristAttractions\obj\Debug\TryItTouristAttractions.csprojResolveAssemblyReference.cache
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItTouristAttractions\obj\Debug\TryItTouristAttractions.Form1.resources
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItTouristAttractions\obj\Debug\TryItTouristAttractions.Properties.Resources.resources
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItTouristAttractions\obj\Debug\TryItTouristAttractions.csproj.GenerateResource.Cache
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItTouristAttractions\obj\Debug\TryItTouristAttractions.exe
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItTouristAttractions\obj\Debug\TryItTouristAttractions.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\TravelAgent\TryItTouristAttractions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\TravelAgent\TryItTouristAttractions\bin\Debug\Newtonsoft.Json.xml

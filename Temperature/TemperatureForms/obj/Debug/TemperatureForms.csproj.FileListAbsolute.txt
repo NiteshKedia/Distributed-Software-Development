@@ -1,0 +1,9 @@
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\bin\Debug\TemperatureForms.exe.config
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\bin\Debug\TemperatureForms.exe
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\bin\Debug\TemperatureForms.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\obj\Debug\TemperatureForms.csprojResolveAssemblyReference.cache
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\obj\Debug\Temperature.Form1.resources
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\obj\Debug\Temperature.Properties.Resources.resources
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\obj\Debug\TemperatureForms.csproj.GenerateResource.Cache
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\obj\Debug\TemperatureForms.exe
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\obj\Debug\TemperatureForms.pdb

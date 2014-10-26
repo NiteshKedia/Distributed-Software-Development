@@ -1,0 +1,8 @@
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\bin\Release\TemperatureForms.exe.config
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\bin\Release\TemperatureForms.exe
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\bin\Release\TemperatureForms.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\obj\Release\Temperature.Form1.resources
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\obj\Release\Temperature.Properties.Resources.resources
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\obj\Release\TemperatureForms.csproj.GenerateResource.Cache
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\obj\Release\TemperatureForms.exe
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureForms\obj\Release\TemperatureForms.pdb

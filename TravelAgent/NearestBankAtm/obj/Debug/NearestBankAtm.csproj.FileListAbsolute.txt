@@ -1,0 +1,8 @@
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\NearestBankAtm\obj\Debug\NearestBankAtm.csprojResolveAssemblyReference.cache
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\NearestBankAtm\bin\NearestBankAtm.dll.config
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\NearestBankAtm\bin\NearestBankAtm.dll
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\NearestBankAtm\bin\NearestBankAtm.pdb
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\NearestBankAtm\bin\Newtonsoft.Json.dll
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\NearestBankAtm\bin\Newtonsoft.Json.xml
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\NearestBankAtm\obj\Debug\NearestBankAtm.dll
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\NearestBankAtm\obj\Debug\NearestBankAtm.pdb

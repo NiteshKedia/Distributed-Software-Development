@@ -1,0 +1,9 @@
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItUpcomingEvents\bin\Debug\TryItUpcomingEvents.exe.config
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItUpcomingEvents\bin\Debug\TryItUpcomingEvents.exe
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItUpcomingEvents\bin\Debug\TryItUpcomingEvents.pdb
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItUpcomingEvents\obj\Debug\TryItUpcomingEvents.csprojResolveAssemblyReference.cache
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItUpcomingEvents\obj\Debug\TryItUpcomingEvents.Form1.resources
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItUpcomingEvents\obj\Debug\TryItUpcomingEvents.Properties.Resources.resources
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItUpcomingEvents\obj\Debug\TryItUpcomingEvents.csproj.GenerateResource.Cache
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItUpcomingEvents\obj\Debug\TryItUpcomingEvents.exe
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItUpcomingEvents\obj\Debug\TryItUpcomingEvents.pdb

@@ -1,0 +1,8 @@
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TouristAttractions\bin\TouristAttractions.dll.config
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TouristAttractions\bin\TouristAttractions.dll
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TouristAttractions\bin\TouristAttractions.pdb
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TouristAttractions\bin\Newtonsoft.Json.dll
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TouristAttractions\bin\Newtonsoft.Json.xml
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TouristAttractions\obj\Debug\TouristAttractions.csprojResolveAssemblyReference.cache
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TouristAttractions\obj\Debug\TouristAttractions.dll
+C:\Users\Nitesh\documents\visual studio 2013\Projects\TravelAgent\TouristAttractions\obj\Debug\TouristAttractions.pdb

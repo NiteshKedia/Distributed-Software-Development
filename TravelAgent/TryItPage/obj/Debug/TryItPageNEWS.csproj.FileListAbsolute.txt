@@ -1,0 +1,9 @@
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\bin\Debug\TryItPage.exe.config
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\bin\Debug\TryItPage.exe
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\bin\Debug\TryItPage.pdb
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\obj\Debug\TryItPage.Form1.resources
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\obj\Debug\TryItPage.Properties.Resources.resources
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\obj\Debug\TryItPageNEWS.csproj.GenerateResource.Cache
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\obj\Debug\TryItPage.exe
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\obj\Debug\TryItPage.pdb
+c:\users\nitesh\documents\visual studio 2013\Projects\TravelAgent\TryItPage\obj\Debug\TryItPageNEWS.csprojResolveAssemblyReference.cache

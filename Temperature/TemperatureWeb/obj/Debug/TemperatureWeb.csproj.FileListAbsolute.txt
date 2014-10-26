@@ -1,0 +1,6 @@
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureWeb\bin\TemperatureWeb.dll.config
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureWeb\bin\TemperatureWeb.dll
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureWeb\bin\TemperatureWeb.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureWeb\obj\Debug\TemperatureWeb.dll
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureWeb\obj\Debug\TemperatureWeb.pdb
+C:\Users\Nitesh\Documents\Visual Studio 2013\Projects\Temperature\TemperatureWeb\obj\Debug\TemperatureWeb.csprojResolveAssemblyReference.cache
