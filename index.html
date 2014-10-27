@@ -27,11 +27,93 @@
             <td align="center" style="background-color: #C0C0C0; font-style:italic"><b>Actual resources used to implement the service</b></td>
         </tr>
 
+        <!--Prerna Satija-->
+        <tr>
+            <td>Prerna Satija</td>
+            <td><b>SolarEnergyService</b>&nbsp;(Required)<br />
+            <b>Input:</b> latitude and longitude<br />
+            <b>Output:</b> a number reflecting the annual average solar intensity at the location
+            </td>
+            <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/page1/EnergyTryIt.aspx">Link</a></td>
+            <td>Create a service that returns the annual average sunshine index of a given position (latitude, longitude). This service can be used for deciding if installing solar energy device is effective at the location</td>
+            <td><a href="http://eosweb.larc.nasa.gov/sse/global/text/global_radiation">http://eosweb.larc.nasa.gov/sse/global/text/global_radiation</a></td>
+        </tr>
+
+        <tr>
+            <td>Prerna Satija</td>
+            <td>
+                <b>WindEnergyService</b>&nbsp;(Required)<br />
+                <b>Input:</b> latitude and longitude<br />
+                <b>Output:</b> a number reflecting the annual average wind intensity at the location
+            </td>
+            <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/page1/EnergyTryIt.aspx">Link</a></td>
+            <td>Create a service that returns the annual average wind index of a given position (latitude, longitude). This service can be used for deciding if installing windmill device is effective at the location</td>
+            <td><a href="https://eosweb.larc.nasa.gov/sse/global/text/10yr_wspd50m">https://eosweb.larc.nasa.gov/sse/global/text/10yr_wspd50m</a></td>
+        </tr>
+
+        <tr>
+            <td>Prerna Satija</td>
+            <td>
+                <b>TimeZone</b>&nbsp;(Elective, Restful)<br />
+                <b>Input:</b> latitude and longitude<br />
+                <b>Output:</b> String that gives the timezone and current time
+            </td>
+            <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/page1/TimeZone.aspx">Link</a></td>
+            <td>
+                Service returns the timezone and current time given latitude and longitude of a location
+            </td>
+            <td><a href="https://developers.google.com/maps/documentation/timezone/">Google Time Zone API</a></td>
+        </tr>
+
+        <tr>
+            <td>Prerna Satija</td>
+            <td>
+                <b>NearbyCities</b>&nbsp;(Elective)<br />
+                <b>Input:</b> latitude and longitude<br />
+                <b>Output:</b> current location’s city, state and nearby cities
+            </td>
+            <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/page1/NearByCities.aspx">Link</a></td>
+            <td>
+                This service takes latitude and longitude as input and returns the city, state and nearby cities
+            </td>
+            <td><a href="http://api.geosvc.com/services/rest/help">Geosvc Point Service</a></td>
+        </tr>
+
+        <tr>
+            <td>Prerna Satija</td>
+            <td>
+                <b>findBeautySalons</b>&nbsp;(Elective)<br />
+                <b>Input:</b> latitude and longitude, dropdown for salonType<br />
+                <b>Output:</b> list of salons for the given location
+            </td>
+            <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/page1/BeautySalon.aspx">Link</a></td>
+            <td>
+                Service returns list of salons based on the given longitude, latitude and salonType parameters
+            </td>
+            <td><a href="https://developers.google.com/places/documentation/search#PlaceSearchRequests">Google places API</a></td>
+        </tr>
+
+        <tr>
+            <td>Prerna Satija</td>
+            <td>
+                <b>getStationInfo</b>&nbsp;(Elective)<br />
+                <b>Input:</b> latitude and longitude, dropdown for stationType: Subway Station, Gas Station, Train Station <br />
+                <b>Output:</b> list of stations for the given location
+            </td>
+            <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/page1/Stations.aspx">Link</a></td>
+            <td>
+                Service returns a list of gas stations / subway stations/ train stations based on the input parameters for a location
+            </td>
+            <td><a href="https://developers.google.com/places/documentation/search#PlaceSearchRequests">Google places API</a></td>
+        </tr>
+
+        <!--Nitesh Kedia-->
         <tr>
             <td>Nitesh Kedia</td>
-            <td><b>WeatherService(Required)</b><br />
-            <b>Input:</b> US Zip code<br />
-            <b>Output:</b> A list of weather forecast for the next 5 days in array of string format
+            <td>
+                <b>WeatherService</b>(Required)<br />
+                <b>Input:</b> US Zip code<br />
+                <b>Output:</b> A list of weather forecast for the next 5 days in array of string format
             </td>
             <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/Page4/Weather.aspx">Link</a></td>
             <td>Create a service that returns a list of 5 day/night weather forecast.</td>
@@ -39,9 +121,10 @@
         </tr>
         <tr>
             <td>Nitesh Kedia</td>
-            <td><b>News Focus(Required)</b><br />
-            <b>Input:</b>Topic<br />
-            <b>Output:</b>A list of News related to the input provided.
+            <td>
+                <b>News Focus</b>(Required)<br />
+                <b>Input:</b>Topic<br />
+                <b>Output:</b>A list of News related to the input provided.
             </td>
             <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/Page4/NewFocus.aspx">Link</a></td>
             <td>Create a service that returns news related to the topic/place provided as the input. It also returns the link of the news.</td>
@@ -49,9 +132,10 @@
         </tr>
         <tr>
             <td>Nitesh Kedia</td>
-            <td><b>NearestAirport(Elective, Restful)</b><br />
-            <b>Input:</b>Latitude, Longitude<br />
-            <b>Output:</b>Name, city, state, country of the nearest airport
+            <td>
+                <b>NearestAirport</b>(Elective, Restful)<br />
+                <b>Input:</b>Latitude, Longitude<br />
+                <b>Output:</b>Name, city, state, country of the nearest airport
             </td>
             <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/Page4/NearestAirport.aspx">Link</a></td>
             <td>Create a service that returns the nearest airport for the given latitude and longitude.</td>
@@ -59,9 +143,10 @@
         </tr>
         <tr>
             <td>Nitesh Kedia</td>
-            <td><b>GetUpcomingEvents(Elective)</b><br />
-            <b>Input:</b> Latitude, Longitude<br />
-            <b>Output:</b> List of upcoming events in array of strings format
+            <td>
+                <b>GetUpcomingEvents</b>(Elective)<br />
+                <b>Input:</b> Latitude, Longitude<br />
+                <b>Output:</b> List of upcoming events in array of strings format
             </td>
             <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/Page4/UpcomingEvents.aspx">Link</a></td>
             <td>Create a service that returns a list of upcoming events happening near the give latitude, longitude. It also gives start time, end time, address, time of the event.</td>
@@ -69,9 +154,10 @@
         </tr>
         <tr>
             <td>Nitesh Kedia</td>
-            <td><b>GetNearestBankATM(Elective)</b><br />
-            <b>Input:</b> Latitude, Longitude<br />
-            <b>Output:</b> List of nearby Bank/ATMs in array of strings format
+            <td>
+                <b>GetNearestBankATM</b>(Elective)<br />
+                <b>Input:</b> Latitude, Longitude<br />
+                <b>Output:</b> List of nearby Bank/ATMs in array of strings format
             </td>
             <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/Page4/NearestBankATM.aspx">Link</a></td>
             <td>Create a service that returns a list of nearby ATMs and Banks for the given latitude and longitude within a radius of 2500 meters</td>
@@ -79,20 +165,100 @@
         </tr>
         <tr>
             <td>Nitesh Kedia</td>
-            <td><b>GetTouristAttractions(Elective)</b><br />
-            <b>Input:</b> Latitude, Longitude<br />
-            <b>Output:</b>List of nearby attraction in array of strings format
+            <td>
+                <b>GetTouristAttractions</b>(Elective)<br />
+                <b>Input:</b> Latitude, Longitude<br />
+                <b>Output:</b>List of nearby attraction in array of strings format
             </td>
             <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/Page4/TouristAttractions.aspx">Link</a></td>
             <td>Create a service that returns a list of tourist attractions near the given latitude, longitude. It also gives the address, category and rating of the place. </td>
             <td><a href="https://developer.foursquare.com/overview/">https://developer.foursquare.com/overview/</a></td>
         </tr>
 
+        <!--Nishant Bansal-->
+        <tr>
+            <td>Nishant Bansal</td>
+            <td>
+                <b>NaturalHazardsService</b>&nbsp;(Required)<br />
+                <b>Input:</b> latitude and longitude <br />
+                <b>Output:</b> a number reflecting the natural hazards at the location
+            </td>
+            <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/page7/NaturalHazard.aspx">Link</a></td>
+            <td>
+                Create a service that returns the natural hazards (Tsunamis, earthquake, volcanoes) index of a given position (latitude, longitude). This service can be used for building decision and insurance premium
+            </td>
+            <td><a href="http://api.wunderground.com/weather/api/d/docs?d=data/alerts">Wunderground Alerts API</a></td>
+        </tr>
 
+        <tr>
+            <td>Nishant Bansal</td>
+            <td>
+                <b>FindNearestStore</b>&nbsp;(Required)<br />
+                <b>Input:</b> Zipcode and Store Name <br />
+                <b>Output:</b> Address of the store
+            </td>
+            <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/page7/NearestStore.aspx">Link</a></td>
+            <td>
+                Use an existing online service or API to find the provided storeName closest to the zipcode and return the address.  If no store is found, return an error message.  (Optional: if the store is further than 20 miles, from the zipcode, return a “no stores within 20 miles” message)
+            </td>
+            <td><a href="https://developer.foursquare.com/docs/venues/search">FourSquare Search API</a></td>
+        </tr>
 
-        
+        <tr>
+            <td>Nishant Bansal</td>
+            <td>
+                <b>Geocoder</b>&nbsp;(Elective)<br />
+                <b>Input:</b> City Name <br />
+                <b>Output:</b> Geocodes (latitude, longitude)
+            </td>
+            <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/page7/Geocode.aspx">Link</a></td>
+            <td>
+                This service returns the longitude and latitude for the input city name
+            </td>
+            <td><a href="https://developers.google.com/maps/documentation/geocoding/">Google Geocoding API</a></td>
+        </tr>
 
-        
+        <tr>
+            <td>Nishant Bansal</td>
+            <td>
+                <b>SearchFor</b>&nbsp;(Elective)<br />
+                <b>Input:</b> City Name and Place Type<br />
+                <b>Output:</b> list of places of that type
+            </td>
+            <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/page7/SearchFor.aspx">Link</a></td>
+            <td>
+                This service takes the city name and store type as inputs and returns the list of store names nearby
+            </td>
+            <td><a href="https://developer.foursquare.com/docs/venues/explore">FourSquare Explore API</a></td>
+        </tr>
+
+        <tr>
+            <td>Nishant Bansal</td>
+            <td>
+                <b>SunTime</b>&nbsp;(Elective, Restful)<br />
+                <b>Input:</b> latitude, longitude<br />
+                <b>Output:</b> sunrise time and sunset time
+            </td>
+            <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/page7/SunTime.aspx">Link</a></td>
+            <td>
+                This service takes latitude longitude  and current day and month as input and gives the sunrise and sunset time for that location and day.
+            </td>
+            <td><a href="http://www.earthtools.org/webservices.htm#sun">EarthTools Sun WenServices</a></td>
+        </tr>
+
+        <tr>
+            <td>Nishant Bansal</td>
+            <td>
+                <b>GetEmergencyServices</b>&nbsp;(Elective)<br />
+                <b>Input:</b> latitude, longitude and helpType <br />
+                <b>Output:</b> list of hospitals or fire stations or police or doctor based on the selected input
+            </td>
+            <td>&nbsp;<a href="http://webstrar39.fulton.asu.edu/page7/Emergency.aspx">Link</a></td>
+            <td>
+                Service that returns a list of hospitals or fire stations or police or doctors based on the input parameters near a given location
+            </td>
+            <td><a href="https://developers.google.com/places/documentation/search#PlaceSearchRequests">Google places API</a></td>
+        </tr>
         </table>
 
 </body>

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequiredServices", "RequiredServices\RequiredServices.csproj", "{EF9951F9-44AF-4F5E-8AD6-26F9F364B0EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAPServices", "RequiredServices\SOAPServices.csproj", "{EF9951F9-44AF-4F5E-8AD6-26F9F364B0EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectiveServices", "ElectiveServices\ElectiveServices.csproj", "{7EAD9215-DF50-4D61-8379-045EED5D53BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestfulServices", "ElectiveServices\RestfulServices.csproj", "{7EAD9215-DF50-4D61-8379-045EED5D53BC}"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TryItPages(3)", "http://localhost:57257", "{6B030071-011D-47D7-BE25-D5B7E28CD48F}"
 	ProjectSection(WebsiteProperties) = preProject
