@@ -2,10 +2,6 @@
 <Hotels>
    <Hotel Stars="*">
       <Name>Russel Erskine Apartments</Name>
-      <Contact>
-         <Phone>(256) 539-5668</Phone>
-         <Email>photo@whnt.com</Email>
-      </Contact>
       <Address BusLines="Route 5">
          <Number>115</Number>
          <Street>Clinton Ave W, Huntsville, AL</Street>
@@ -17,10 +13,6 @@
 
    <Hotel Stars="****">
       <Name>The Battle House Hotel</Name>
-      <Contact>
-         <Phone>(251) 338-2000</Phone>
-         <Email>mobile@hotels.com</Email>
-      </Contact>
       <Address>
          <Number>26</Number>
          <Street>N Royal St, Mobile</Street>
@@ -31,10 +23,6 @@
 
    <Hotel Stars="***">
       <Name>Alaskan Hotel and Bar</Name>
-      <Contact>
-         <Phone>(907) 586-1000</Phone>
-         <Email>alaskanhotel@hotmail.com</Email>
-      </Contact>
       <Address>
          <Number>167</Number>
          <Street>S Franklin St, Juneau</Street>
@@ -45,10 +33,6 @@
 
    <Hotel Stars="****">
       <Name>Arizona Biltmore Hotel</Name>
-      <Contact>
-         <Phone>0161 904 8686</Phone>
-         <Email></Email>
-      </Contact>
       <Address>
          <Number>24</Number>
          <Street>24th St Arizona Biltmore</Street>
@@ -59,10 +43,6 @@
 
    <Hotel Stars="****">
       <Name>Ahwahnee Hotel</Name>
-      <Contact>
-         <Phone>(801) 559-4884</Phone>
-         <Email></Email>
-      </Contact>
       <Address>
          <Number>1</Number>
          <Street>Ahwahnee Dr, Yosemite National Park</Street>
@@ -73,10 +53,6 @@
 
    <Hotel Stars="****">
       <Name>Big Bear Frontier</Name>
-      <Contact>
-         <Phone>(909) 866-5888</Phone>
-         <Email>alex.langsam@britanniahotels.com</Email>
-      </Contact>
       <Address>
          <Number>40472</Number>
          <Street>Big Bear Blvd, Big Bear Lake</Street>
@@ -87,10 +63,6 @@
 
    <Hotel Stars="***">
       <Name>Hilton Anaheim</Name>
-      <Contact>
-         <Phone>(714) 750-4321</Phone>
-         <Email>SNAAH_DS@hilton.com</Email>
-      </Contact>
       <Address>
          <Number>777</Number>
          <Street>W Convention Way, Anaheim</Street>
@@ -101,10 +73,6 @@
 
    <Hotel Stars="*****">
       <Name>Fairmont San Francisco</Name>
-      <Contact>
-         <Phone>(415) 772-5000</Phone>
-         <Email>alex.langsam@britanniahotels.com</Email>
-      </Contact>
       <Address>
          <Number>950</Number>
          <Street>Mason St, San Francisco</Street>
@@ -115,10 +83,6 @@
 
    <Hotel Stars="****">
       <Name>Hotel Boulderado</Name>
-      <Contact>
-         <Phone>(303) 442-4344</Phone>
-         <Email>lbrewer@boulderado.com</Email>
-      </Contact>
       <Address>
          <Number>2115</Number>
          <Street>13th St, Boulder</Street>
@@ -129,10 +93,6 @@
 
    <Hotel Stars="****">
       <Name>Brown Palace Hotel</Name>
-      <Contact>
-         <Phone>(303) 297-3111</Phone>
-         <Email></Email>
-      </Contact>
       <Address>
          <Number>01343600</Number>
          <Street>321 17th St, Denver, CO </Street>
